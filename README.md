@@ -73,7 +73,7 @@ Relational structure implemented using Primary & Foreign Keys.
 
 ## 📸 Screenshots
 
-![Login Screen](E-healthcare management system/login.png)
+![Login Screen](E-healthcare management system/home.png)
 ![Dashboard](E-healthcare management system/home.png)
 
 ---
