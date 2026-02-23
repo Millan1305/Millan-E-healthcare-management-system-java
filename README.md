@@ -73,12 +73,8 @@ Relational structure implemented using Primary & Foreign Keys.
 
 ## 📸 Screenshots
 
-(Add your application screenshots here)
-
-Example:
-
-![Login Screen](assets/images/login.png)
-![Dashboard](assets/images/dashboard.png)
+![Login Screen](E-healthcare management system/login.png)
+![Dashboard](E-healthcare management system/home.png)
 
 ---
 
